@@ -6,3 +6,9 @@
 Este repositório contém os projetos que produzi em resposta aos desafios propostos no decorrer do curso Microsoft Fundamentos de IA, decorrente da Dio.
 
 ## Lista de Desafios
+
+* [**Trabalhando com Machine Learning na Prática no Azure ML**]
+  
+Realize a previsão de aluguel de bikes, prever a quantidade de bike, onde subiremos uma base de dados com feriados, dias da semana, dias trabalho etc
+Objetivo é fechar a configuração e ver funcionando. As varias depende dos dados que subir para a IA realizar os resultados
+
