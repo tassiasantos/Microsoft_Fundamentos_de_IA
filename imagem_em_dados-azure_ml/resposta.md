@@ -1,7 +1,7 @@
-# Trabalhando com Machine Learning na Prática no Azure ML
+# Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
 ![Segmento](https://img.shields.io/badge/Segmento_:-IA-blue?style=flat-square)
-![Tecnologias](https://img.shields.io/badge/Tecnologias_:-AzureMachineLearning-lightyellow?style=flat-square) 
+![Tecnologias](https://img.shields.io/badge/Tecnologias_:-AzureVisionStudio-lightyellow?style=flat-square) 
 ![Ano](https://img.shields.io/badge/Ano_:-2025-darkyellow?style=flat-square)
 
 Esta é a minha resposta para o segundo desafio propostro curso Microsoft - Fundamentos de IA oferecido pela DIO.
