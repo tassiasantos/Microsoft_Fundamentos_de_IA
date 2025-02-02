@@ -12,3 +12,6 @@ Este repositório contém os projetos que produzi em resposta aos desafios propo
 Realize a previsão de aluguel de bikes, prever a quantidade de bike, onde subiremos uma base de dados com feriados, dias da semana, dias trabalho etc
 Objetivo é fechar a configuração e ver funcionando. As varias depende dos dados que subir para a IA realizar os resultados
 
+* [**Reconhecimento Facial e transformação de imagens em Dados no Azure ML**]
+
+Pratique a criação de reconhecimento facial, identificação de dados em documentos e também o reconhecimento de elementos em imagens. 
