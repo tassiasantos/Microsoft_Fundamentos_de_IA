@@ -15,3 +15,7 @@ Objetivo é fechar a configuração e ver funcionando. As varias depende dos dad
 * [**Reconhecimento Facial e transformação de imagens em Dados no Azure ML**](https://github.com/tassiasantos/Microsoft_Fundamentos_de_IA/blob/main/imagem_em_dados-azure_ml/resposta.md)
 
 Pratique a criação de reconhecimento facial, identificação de dados em documentos e também o reconhecimento de elementos em imagens. 
+
+* [**Associando Conceitos IA, ML e Visão Computacional com Lógica de Programação**](https://github.com/tassiasantos/Microsoft_Fundamentos_de_IA/blob/main/associando_conceitos_ia_ml_visão_computacional_com_lógica_de_programaçã/resposta.md)
+
+ Explore os conceitos fundamentais da Inteligência Artificial (IA). 
